@@ -1,8 +1,6 @@
-# RA-Bootcamp
+# Project - Video Poker
 
-## Project 1 - Video Poker
-
-### Motivation & Objectives
+## Motivation & Objectives
 
 Create a video poker game using raw html, css and js.
 
